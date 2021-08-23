@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Castoro&display=swap');
+
+
+a.card,
+a.card:hover {
+  color: #212529;
+  text-decoration: none;
+}
+
+/* .section-title span{
+    color: gray;
+    font-style: normal;
+} */

@@ -1,0 +1,15 @@
+body{
+    background-color: grey;
+}
+.myCard{
+    margin: 10% 0 0 0;
+    border-radius: 20px;
+}
+img{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.heading{
+    text-align: center;
+    border-top-right-radius: 20px;
+}

@@ -1,0 +1,11 @@
+.faq table, .faq tr, .faq td, .faq th{
+margin: 0 0 0 5px;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.products table, .products tr, .products td, .products th{
+    margin: 0 0 0 5px;
+        border: 2px solid black;
+        border-collapse: collapse;
+    }
